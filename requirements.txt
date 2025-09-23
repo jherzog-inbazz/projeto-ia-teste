@@ -7,5 +7,5 @@ duckdb
 streamlit_option_menu
 pillow
 xlsxwriter
-WordCloud
 STOPWORDS
+WordCloud
