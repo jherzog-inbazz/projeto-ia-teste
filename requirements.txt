@@ -9,3 +9,5 @@ pillow
 xlsxwriter
 STOPWORDS
 WordCloud
+networkx
+re
